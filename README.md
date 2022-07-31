@@ -1,4 +1,4 @@
-# gasolina
+# Análise de dados do consumo de gasolina no Brasil
 
 ## download_files.py
 contém o código para fazer download da base de dados utilizada nessa
